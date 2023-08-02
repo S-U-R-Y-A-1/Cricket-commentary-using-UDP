@@ -13,10 +13,7 @@ Several notepad files have been created to store commentaries of different innin
 Since the score card has the info on the score of the particular over with the wicket count, for example : "34/2". We have to find the difference between 
 the score and wicket from the current and previous over. At this point, execute all the client files, so that the server can store the port number of all the clients to communication purpose. Generate the random number from 0-3 to send the score to the client ie., 
   
-  0 - client 1
-  1 - client 2
-  2 - client 3
-  3 - client 4
+  0 - client 1,  1 - client 2,  2 - client 3,  3 - client 4
 
 Send the score difference by converting it into bytes as a datagram packet to the client. Each client has 9 different testcases with commentaries. There are 36 pre defined commentaries for all 4 clients. 
 
