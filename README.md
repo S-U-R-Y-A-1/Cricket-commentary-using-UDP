@@ -1,6 +1,6 @@
 # Cricket-commentary-using-UDP
 
-The following project is used to execute the communication between a server and multiple clients usind UDP protocol
+The following project is used to execute the communication between a server and multiple clients using UDP protocol
 The main java file is the server file which access the score card. Here the score card has been extracted from the website mentioned below :
 https://www.espncricinfo.com/
 
